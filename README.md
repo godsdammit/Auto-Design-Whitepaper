@@ -4,7 +4,7 @@ This repository contains the whitepaper for the Auto-Design project.
 
 ## Whitepaper Title
 
-"Architectural and Planning Models by Registration of BIM Models with Survey Property on Blockchain"
+Architectural and Planning Models by Registration of BIM Models with Survey Property on Blockchain
 
 ## Abstract
 
