@@ -8,7 +8,7 @@ This repository contains the whitepaper for the Auto-Design project.
 
 ## Abstract
 
-This is a working prototype of a whitepaper on the development of a application that incorporates profesional desingers 3d models into a geolated property registration system. 
+This is a working prototype of a whitepaper on the development of an application that incorporates professional designer's 3d models into a geolocated property registration system. 
 
 ## Contents
 
