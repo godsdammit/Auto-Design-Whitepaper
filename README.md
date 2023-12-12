@@ -9,6 +9,7 @@ Architectural and Planning Models by Registration of BIM Models with Survey Prop
 ## Abstract
 
 This is a working prototype of a whitepaper on the development of an application that incorporates professional designer's 3d models into a geolocated property registration system. 
+This system is to be configured to automate the use of digital design data to facilitate automated design. 
 
 ## Contents
 
