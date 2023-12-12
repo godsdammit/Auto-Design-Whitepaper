@@ -29,7 +29,9 @@ This document was created with the assistance of GitHub Copilot, an AI-powered c
 
 ## License
 
-(Provide information about the license here)
+## License
+
+This project is proprietary and all rights are reserved by ERICKSONG ARCHITECTS INC. No part of this project may be reproduced or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission of ERICKSONG ARCHITECTS INC.
 
 ## Contact
 
