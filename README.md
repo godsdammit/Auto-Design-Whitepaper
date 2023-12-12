@@ -25,9 +25,8 @@ This document was created with the assistance of GitHub Copilot, an AI-powered c
 ---
 
 © 2023 ERICKSONG ARCHITECTS INC. All rights reserved. No part of this document may be reproduced or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission of ERICKSONG ARCHITECTS INC.
-````
 
-## License
+````
 
 ## License
 
@@ -38,3 +37,4 @@ This project is proprietary and all rights are reserved by ERICKSONG ARCHITECTS 
 Gary Erickson, Architect.
 Tel: 458-202-2304
 Cell: 416-893-3060
+e: ericksong@me.com
