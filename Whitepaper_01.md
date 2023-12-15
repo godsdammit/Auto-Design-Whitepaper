@@ -86,7 +86,7 @@ source env/bin/activate
 
 ---
 
-# Example of a basic Python template
+### Example of a basic Python template
 
 ```python
 # Define the main function that will contain the logic of your program
