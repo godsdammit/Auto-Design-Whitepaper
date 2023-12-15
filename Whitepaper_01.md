@@ -12,7 +12,7 @@
 
 ## White Paper Outline
 
-### ERICKSONG ARCHITECTS INC.:
+### ERICKSONG ARCHITECTS INC.
 
 ## A. Project Stages
 
@@ -213,7 +213,7 @@ contract MyNFT is ERC721 {
 
 ## B. Discussion
 
-### Copilot:
+### Copilot
 
 Here are a few additional points you might want to consider:
 
@@ -246,9 +246,9 @@ Here are a few additional points you might want to consider:
    - Develop a project management plan.
    - Include a timeline, milestones, and responsibilities for each team member.
 
-   ***
+---
 
-   - Software Development Project
+## Software Development Project WBS
 
 - Project Initiation
   - Define project scope
@@ -282,14 +282,14 @@ Here are a few additional points you might want to consider:
   - Release project resources
   ***
 
-6. **Funding**
+1. **Funding**
 
    - Consider how you will fund your project.
    - This could include self-funding, seeking investment, applying for grants, or a combination of these.
 
 ---
 
-Software Development Project Cost Outline
+## Software Development Project Cost Outline
 
 - Personnel Costs
   - Project Manager
@@ -309,15 +309,16 @@ Software Development Project Cost Outline
   - Training for new team members
 - Miscellaneous Costs
   - Contingency fund for unexpected expenses
-  ***
 
-7. **Evaluation**
+---
+
+1. **Evaluation**
    - Plan how you will evaluate the success of your project.
    - This could include key performance indicators (KPIs), user feedback, and other metrics.
 
 Remember, every project is unique, so you may need to adapt this advice to fit your specific situation. It's also a good idea to regularly review and update your plan as your project progresses.
 
-### ERICKSONG ARCHITECTS INC.:
+### ERICKSONG ARCHITECTS INC.
 
 1. **Advanced AI and Simulations**
 
@@ -343,7 +344,7 @@ Remember, every project is unique, so you may need to adapt this advice to fit y
    - The simulations could offer role-playing opportunities on a real level.
    - This could provide valuable insights into how people would interact with the redesigned urban environments.
 
-### Copilot:
+### Copilot
 
 Advanced AI could play a significant role in this vision. Here's how:
 
@@ -379,7 +380,7 @@ Advanced AI could play a significant role in this vision. Here's how:
 
 ## C. Whitepaper Guidelines
 
-### Copilot:
+### Copilot
 
 A white paper is a comprehensive report that details a problem and a proposed solution - in your case, the use of blockchain technology for a specific application.
 
