@@ -58,7 +58,7 @@ print(response.choices[0].text.strip())
 
 ---
 
-````bash
+```bash
 # Create a new directory named "new_project"
 mkdir new_project
 
@@ -75,6 +75,7 @@ python3 -m venv env
 source env/bin/activate
 
 ```
+
 ---
 
 3. **Formation of Original Code Template with Copilot**
@@ -84,6 +85,7 @@ source env/bin/activate
    - Setup of development environment and tools
 
 ---
+
 # Example of a basic Python template
 
 ```python
@@ -98,6 +100,7 @@ if __name__ == "__main__":
     main()
 
 ```
+
 ---
 
 4. **Generation of Genesis Code in the Most General Scope**
@@ -152,6 +155,7 @@ contract MyNFT is ERC721 {
 }
 
 ```
+
 ---
 
 6. **Preparation of a White Paper First Draft**
@@ -241,66 +245,72 @@ Here are a few additional points you might want to consider:
 
    - Develop a project management plan.
    - Include a timeline, milestones, and responsibilities for each team member.
-   ___
+
+   ***
 
    - Software Development Project
-  - Project Initiation
-    - Define project scope
-    - Identify key stakeholders
-    - Establish project objectives
-    - Develop project charter
-  - Project Planning
-    - Develop project management plan
-    - Define and sequence activities
-    - Estimate activity resources and durations
-    - Develop schedule
-    - Plan quality management
-    - Plan communications management
-  - Software Design
-    - Requirement gathering and analysis
-    - System design
-    - Detailed design
-  - Software Development
-    - Coding
-    - Unit testing
-    - Integration testing
-  - Software Testing
-    - System testing
-    - Acceptance testing
-  - Deployment
-    - Deploy on production environment
-    - User training
-  - Project Closure
-    - Document lessons learned
-    - Archive project documents
-    - Release project resources
-    ___
+
+- Project Initiation
+  - Define project scope
+  - Identify key stakeholders
+  - Establish project objectives
+  - Develop project charter
+- Project Planning
+  - Develop project management plan
+  - Define and sequence activities
+  - Estimate activity resources and durations
+  - Develop schedule
+  - Plan quality management
+  - Plan communications management
+- Software Design
+  - Requirement gathering and analysis
+  - System design
+  - Detailed design
+- Software Development
+  - Coding
+  - Unit testing
+  - Integration testing
+- Software Testing
+  - System testing
+  - Acceptance testing
+- Deployment
+  - Deploy on production environment
+  - User training
+- Project Closure
+  - Document lessons learned
+  - Archive project documents
+  - Release project resources
+  ***
 
 6. **Funding**
 
    - Consider how you will fund your project.
    - This could include self-funding, seeking investment, applying for grants, or a combination of these.
+
 ---
+
 Software Development Project Cost Outline
-  - Personnel Costs
-    - Project Manager
-    - Software Developers
-    - Quality Assurance Engineers
-    - UI/UX Designers
-    - Technical Writers
-  - Infrastructure Costs
-    - Hardware
-    - Software Licenses
-    - Cloud Services
-  - Operational Costs
-    - Internet and Utilities
-    - Office Space (if applicable)
-  - Training Costs
-    - Training for new technologies
-    - Training for new team members
-  - Miscellaneous Costs
-    - Contingency fund for unexpected expenses
-    ---
+
+- Personnel Costs
+  - Project Manager
+  - Software Developers
+  - Quality Assurance Engineers
+  - UI/UX Designers
+  - Technical Writers
+- Infrastructure Costs
+  - Hardware
+  - Software Licenses
+  - Cloud Services
+- Operational Costs
+  - Internet and Utilities
+  - Office Space (if applicable)
+- Training Costs
+  - Training for new technologies
+  - Training for new team members
+- Miscellaneous Costs
+  - Contingency fund for unexpected expenses
+  ***
+
 7. **Evaluation**
    - Plan how you will evaluate the success of your project.
    - This could include key performance indicators (KPIs), user feedback, and other metrics.
@@ -419,6 +429,7 @@ Remember, a white paper is a technical document that's meant to inform and persu
 Once your white paper is complete, you can publish it online, share it with potential partners or investors, or use it as a basis for further development work.
 
 ---
+
 ## Footnote
 
 **Monte Carlo Tree Search (MCTS)**, a form of Monte Carlo simulation, was a key component of the algorithms used in **AlphaGo**, the AI developed by DeepMind that defeated the world champion Go player in 2016.
@@ -444,4 +455,6 @@ This document was created with the assistance of GitHub Copilot, an AI-powered c
 
 © 2023 ERICKSONG ARCHITECTS INC. All rights reserved. No part of this document may be reproduced or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission of ERICKSONG ARCHITECTS INC.
 
-````
+```
+
+```
