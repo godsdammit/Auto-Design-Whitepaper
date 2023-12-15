@@ -74,6 +74,7 @@ python3 -m venv env
 # Activate the Python virtual environment
 source env/bin/activate
 
+```
 ---
 
 3. **Formation of Original Code Template with Copilot**
@@ -95,6 +96,8 @@ def main():
 # If it is, it will call the main function
 if __name__ == "__main__":
     main()
+
+```
 ---
 
 4. **Generation of Genesis Code in the Most General Scope**
@@ -111,12 +114,12 @@ if __name__ == "__main__":
 
 ---
 
+```solidity
+pragma solidity ^0.8.0;
+
 // SPDX-License-Identifier: MIT
 // This line specifies the license for this contract (MIT License)
-
-pragma solidity ^0.8.0;
 // This line specifies the version of Solidity compiler this contract is compatible with
-
 // Import the ERC721 contract from the OpenZeppelin library
 // ERC721 is a standard for creating non-fungible tokens on the Ethereum blockchain
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
@@ -148,6 +151,7 @@ contract MyNFT is ERC721 {
     }
 }
 
+```
 ---
 
 6. **Preparation of a White Paper First Draft**
