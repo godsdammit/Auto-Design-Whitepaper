@@ -12,7 +12,7 @@
 
 ## White Paper Outline
 
-### ERICKSONG ARCHITECTS INC.
+### ERICKSONG ARCHITECTS INC
 
 ## A. Project Stages
 
@@ -280,7 +280,8 @@ Here are a few additional points you might want to consider:
   - Document lessons learned
   - Archive project documents
   - Release project resources
-  ***
+
+---
 
 1. **Funding**
 
@@ -318,7 +319,7 @@ Here are a few additional points you might want to consider:
 
 Remember, every project is unique, so you may need to adapt this advice to fit your specific situation. It's also a good idea to regularly review and update your plan as your project progresses.
 
-### ERICKSONG ARCHITECTS INC.
+### ERICKSONG ARCHITECTS INC
 
 1. **Advanced AI and Simulations**
 
@@ -344,7 +345,7 @@ Remember, every project is unique, so you may need to adapt this advice to fit y
    - The simulations could offer role-playing opportunities on a real level.
    - This could provide valuable insights into how people would interact with the redesigned urban environments.
 
-### Copilot
+### Copilot Section
 
 Advanced AI could play a significant role in this vision. Here's how:
 
@@ -380,7 +381,7 @@ Advanced AI could play a significant role in this vision. Here's how:
 
 ## C. Whitepaper Guidelines
 
-### Copilot
+### Copilot Section
 
 A white paper is a comprehensive report that details a problem and a proposed solution - in your case, the use of blockchain technology for a specific application.
 
