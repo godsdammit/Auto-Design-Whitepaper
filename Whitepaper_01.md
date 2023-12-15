@@ -117,6 +117,8 @@ if __name__ == "__main__":
 
 ---
 
+### Example of an NFT Solidity source code
+
 ```solidity
 pragma solidity ^0.8.0;
 
