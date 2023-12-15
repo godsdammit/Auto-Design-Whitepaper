@@ -2,6 +2,8 @@
 
 ## Architectural and Planning Models by Registration of BIM Models with Survey Property on Blockchain
 
+[View the NFT on OpenSea](https://opensea.io/assets/matic/0x70ecd2da88be9451ebcef264953f3fcee8e3d136/1)
+
 ## Table of Contents
 
 - [White Paper Outline](#white-paper-outline)
