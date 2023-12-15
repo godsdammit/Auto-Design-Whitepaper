@@ -24,7 +24,7 @@
 
 ---
 
-````python
+```python
 # Import the required libraries
 import os
 import openai
@@ -45,6 +45,9 @@ response = openai.Completion.create(
 # Print the first choice from the response
 # The AI may generate multiple choices, but we're only interested in the first one
 print(response.choices[0].text.strip())
+
+```
+
 ---
 
 2. **Step by Step Solution to Project Creation**
@@ -52,9 +55,10 @@ print(response.choices[0].text.strip())
    - Detailed project plan
    - Identification of key milestones
    - Resource allocation and timeline estimation
+
 ---
 
-```bash
+````bash
 # Create a new directory named "new_project"
 mkdir new_project
 
